@@ -40,8 +40,8 @@ You can access it via this external link:
 👉 [Download Soccer Transfer Dashboard](https://drive.google.com/file/d/1eMXNFvwi1InPF7-OPuCv0dpiEF2U2z6K/view?usp=share_link)  
 
 The repository contains:  
-- **Screenshots** of the dashboard for a quick overview.  
-- **Presentation** with detailed explanations of insights and use cases.  
+- **Link to the dashboard** .  
+- **Presentation** with dashboard screenshots, detailed explanations of insights and use cases.  
 - **Tableau Workflow**.  
 
 ---
